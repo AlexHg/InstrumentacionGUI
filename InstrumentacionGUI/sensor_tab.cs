@@ -50,7 +50,7 @@ namespace InstrumentacionGUI
 
 			cartesianChart1.AxisX.Add(new Axis
 			{
-				Title = "Month",
+				Title = "Time",
 				//Labels = new[] { "Jan", "Feb", "Mar", "Apr", "May" }
 			});
 
